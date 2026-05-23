@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I worked as a API plant inspector in Qatar petrochemicals qatar ... presently i am in india>- 🌱 I’m currently learning ... pythont. <br>- 👯  I have interest to learn about new topic and new courses related to Agentic AI and Automation.i prefered  pythonlife is one of the best platform to learn python. i understand the concepts easily with IT background
+- 🔭 I worked as a API plant inspector in Qatar petrochemicals qatar ... presently i am in india>- 🌱 I’m currently learning ... pythont. <br>- 👯  I have interest to learn about new topic and new courses related to Agentic AI and Automation.i prefered  pythonlife is one of the best platform to learn python. i understand the concepts easily without IT background
  How to reach me: ... sivabhaskar.e@gmail.com
 
 
