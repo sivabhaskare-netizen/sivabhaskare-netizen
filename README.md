@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/sivabhaskar/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/sivabhaskar/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/sivabhaskar"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sivabhaskar.e@gmail.com/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/sivabhaskar.e@gmail.com/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/sivabhaskar"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
 </a>
 <br><br>
 
